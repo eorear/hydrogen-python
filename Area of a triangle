@@ -1,0 +1,5 @@
+height= "6 centimeters"
+base= "11/2 centimeters"
+area= "5.5*6 centimeters" 
+area_of_the_triangle= " 30 centimeters"
+print "The area of a triangle is" + area_of_the_triangle
