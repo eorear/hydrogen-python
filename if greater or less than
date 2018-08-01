@@ -1,0 +1,5 @@
+number = 5
+if number < 10:
+  print "5 + 5"
+if number > 10:
+  print "5-5"  
